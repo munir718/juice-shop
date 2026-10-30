@@ -1,4 +1,4 @@
-name: DevSecOps — Snyk SCA
+name: DevSecOps — Snyk SCA Scan
 
 on:
   push:
